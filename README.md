@@ -1,1 +1,1 @@
-# diet_planner.github.io
+# dietplanner.github.io
